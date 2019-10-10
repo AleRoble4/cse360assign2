@@ -15,6 +15,8 @@ public class Test {
 		myCalculator.add(5);
 		myCalculator.getTotal();
 		myCalculator.toString();
+		myCalculator.clear();
+		myCalculator.toString();
 
 	}
 
